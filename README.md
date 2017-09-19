@@ -13,7 +13,7 @@ Dans la première partie du [rapport](https://github.com/dylandronnier/HW/blob/m
 Dans la seconde partie simule ensuite des dynamiques de Hull et White. On price les options en utilisant une formule close, la résolution par EDP (différence finie) ou la méthode de Monte-Carlo. Chacun des scipts Python correspond à une figure sur le rapport. Par exemple `MC_f9.py` est le script Python permettant de tracer la figure 9 du rapport.
 
 
-## Bibliothèque
+## Bibliothèques
 
 Pour pouvoir lancer les scripts Python, les bibliothèques suivantes sont nécessaires:
 * [Numpy](http://www.numpy.org/) et [Scipy](https://www.scipy.org/)
